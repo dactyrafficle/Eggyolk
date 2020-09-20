@@ -1,0 +1,1 @@
+console.log('Eggyolk is here.');

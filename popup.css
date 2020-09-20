@@ -1,0 +1,33 @@
+html, body {
+	background-color: #333;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+#title {
+	color: #faf;
+	border-bottom: 1px solid #faf;
+	font-family: calibri;
+	font-size: 16px;
+	padding: 4px;
+	width: 100px;
+	height: 35px;
+	line-height: 35px;
+	padding-left: 20px;
+}
+.btn {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	height: 30px;
+	line-height: 30px;
+	margin-top: 3px;
+	font-family: calibri;
+	font-size: 14px;
+	color: #ccc;
+	padding-left: 30px;
+}
+.btn:hover {
+	background-color: #666;
+	cursor: pointer;
+}
